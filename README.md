@@ -23,7 +23,7 @@ coisa mais apetitosa do mundo)
   <img align="center" alt="pml-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pml-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pml-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="pml-pic" height="150" style="border-radius:50px;" src="https://picsart.com/i/405635941004201">
+  <img align="right" alt="pml-pic" height="150" style="border-radius:50px;" src="htt[ps://picsart.com/i/405635941004201">](https://picrew.me/share?cd=kVE6Krhsub #Picrew #djarns_character_maker)
 </div>
   
   ##
