@@ -23,7 +23,6 @@ coisa mais apetitosa do mundo)
   <img align="center" alt="pml-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pml-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pml-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <   img    align = "right"    alt = "pml-pic"    height = "150"    style = "border-radius:50px;"    src = "htt[ps:// "   > "https://picrew.me/share?cd=kVE6Krhsub #Picrew #djarns_character_maker"
 </ div >
   
   ##
@@ -34,6 +33,8 @@ coisa mais apetitosa do mundo)
   <a href = "mailto:contato.devpamelacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamelacruz-fullstack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+   ![Snake animation](https://github.com/pmlgcz/pmlgcz/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
 
