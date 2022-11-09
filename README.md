@@ -22,8 +22,7 @@ coisa mais apetitosa do mundo)
   <img align="center" alt="pml-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="pml-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="pml-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="pml-pic" height="150" style="border-radius:50px;" src="https://tenor.com/view/cyber-digital-gif-6072747">
-</div>
+  <img align="right" alt="pml-pic" height="150" style="border-radius:50px;" src="https://br.pinterest.com/pin/568016571748370887/">
 </ div >
   
   ##
