@@ -1,16 +1,9 @@
-## Olá! Eu sou a Pamela Cruz ♡
+## Olá! ♡
 
 - Estou graduando em Análise e desenv. de Sistemas,
  cursando Desenvolvimento web full stack.
 - Sou uma entusiasta e estudiosa da Cyber segurança.
-- Uma 🇧🇷 de sangue 🇦🇴 que fala um bocadinho de 🇨🇳🇨🇵🇪🇦🇬🇧🇰🇷🇮🇹
-- Sou trilheira apaixonada pela natureza
-- Amante do bom e velho rock'n roll
-- Fãzaça de Harry Potter
-- Defensora do Brócolis (depois do pudim é a 
-coisa mais apetitosa do mundo)
-
-
+##
 <div align="center">
   <a href="https://pmlgcz.carrd.co">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pmlgcz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -22,7 +15,7 @@ coisa mais apetitosa do mundo)
   <img align="center" alt="pml-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
   <img align="center" alt="pml-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="pml-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="right" alt="pml-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif">
+  <img align="right" alt="pml-pic" height="150" style="border-radius:60px;" src="https://media.tenor.com/WxbALsyxywcAAAAM/cyber-monday.gif">
 </ div >
   
   ##
@@ -33,8 +26,6 @@ coisa mais apetitosa do mundo)
   <a href = "mailto:contato.devpamelacruz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pamelacruz-fullstack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ![Snake animation](https://github.com/pmlgcz/pmlgcz/blob/output/github-contribution-grid-snake.svg)
-
  
 </div>
 
