@@ -9,9 +9,7 @@ Pamela Cruz.</a>
 
 - Entusiasta de Cyber sec.
 
-- Competências tech: ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; 
-
-- Competências soft: Criatividade, proatividade, tomada de decisão.
+- Pontos fortes: Criatividade, proatividade, tomada de decisão.
 
 - Como me contatar: *pamelacruz.ads@gmail.com*
 	
@@ -53,17 +51,10 @@ Pamela Cruz.</a>
 <br/>
 <br/>
 
-<a href="https://github.com/pmlgcz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pmlgcz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Me siga nas redes:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/pamelacruz-fullstack"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-<a href = "https://www.instagram.com/pmlgcz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/pamelacruz-fullstack"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a><a href = "https://www.instagram.com/pmlgcz/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
